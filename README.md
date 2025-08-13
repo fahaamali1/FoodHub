@@ -7,4 +7,4 @@
 
 •	Generated actionable business recommendations for staffing and delivery driver route optimization, demonstrating the application of data science to operational decision making
 
-    <img width="468" height="117" alt="image" src="https://github.com/user-attachments/assets/70a3e710-818c-428d-be1f-9112d6ceadb6" />
+ <img width="468" height="117" alt="image" src="https://github.com/user-attachments/assets/70a3e710-818c-428d-be1f-9112d6ceadb6" />
